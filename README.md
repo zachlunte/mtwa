@@ -1,6 +1,5 @@
-=========================
-mac tonic Web Application
-=========================
+mac tonic Web App
+=================
 
 This is a Flask web application which I built for internal use by the employees at mac tonic, 
 a small Apple computer repair store in Eugene OR. It serves as a hub for various utilities and 
